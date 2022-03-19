@@ -2,6 +2,8 @@
 
 # CADRE - The Move Toward Democratization of Commercial Real Estate
 
+![Image of Building](high_rise.jpeg)
+
 ## Overview and Origin
 
 In a market once dominated by private equity investors and syndicate bank funding, fintech disruptors are dismantling the barriers of entry through direct access funds and crowdsourcing. Cadre, a digital direct real estate firm, has promised to democratize the commercial real estate market. Founded in 2014, CEO Ryan William created Cadre to enable a sophisticated product, accessible for individual investors. Ryan Williams partnered with Thrive Capital founder Josh Kushner and General Catalyst and raised a total of $18 million during the initial funding round. The company has since attracted high-profile investors including, Peter Thiel’s Founders Fund, Goldman Sachs, and others, raising over $68 million. 
