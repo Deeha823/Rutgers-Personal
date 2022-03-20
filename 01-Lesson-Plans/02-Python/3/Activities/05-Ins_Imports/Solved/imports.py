@@ -15,7 +15,7 @@ from functions import print_hello
 print_hello()
 
 # Import the NumPy library
-import numpy
+#import numpy
 
 # Import the NumPy Financial library
 import numpy_financial as npf
