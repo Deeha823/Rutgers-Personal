@@ -1,8 +1,11 @@
 # Declare a variable `welcome_name` as an input with a string of "Welcome to the sandwich shop, what do I call you? ".
-
+welcome_name = input("Welcome to the sandwich shop, what do I call you?") 
 
 # Then print the string "Hello" concatenated with the variable `welcome_name`.
+hello_2 = str("hello")
+print("hello_2")
 
+print(f'{"hello_2"} {welcome_name}')
 
 # Declare a variable `question_sandwich` as an input with a string of "Are you here for a sandwich? (Y/N) ".
 
