@@ -23,23 +23,10 @@ customers = [
 #   Silver = 1001-2000
 #   Bronze = 0-1000
 def create_greeting(first_name, last_name, revenue):
-
-if revenue > 3000:
-        greeting = f"Hi {first_name} {last_name}! Thank you for your business of ${revenue}! You are a platinum member."
-    elif (revenue > 2000 and revenue <= 3000):
-        greeting = f"Hi {first_name} {last_name}! Thank you for your business of ${revenue}! You are a gold member."
-    elif (revenue > 1000 and revenue <= 2000):
-        greeting = f"Hi {first_name} {last_name}! Thank you for your business of ${revenue}! You are a silver member."
-    elif (revenue >= 0  and revenue <= 1000):
-        greeting = f"Hi {first_name} {last_name}! Thank you for your business of ${revenue}! You are a bronze member."
-
-    return greeting
-
-
     # @TODO: YOUR CODE HERE!
+    greeting = ""
     return greeting
 
 # @TODO: Loop through the list of customers and use your function to print
 # custom greetings for each customer.
 # @TODO: YOUR CODE HERE!
-if revenue >3000:
